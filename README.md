@@ -46,4 +46,5 @@ Loop Fusion proved to be the **most effective optimization**, reducing both exec
 
 ## Contributers
 Kathiravan.S (CS22B2052)
+
 Ashiq Irfaan.A.F (CS22B2021) 
